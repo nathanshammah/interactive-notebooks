@@ -9,5 +9,5 @@ dependencies:
 - scipy==1.2.1
 - matplotlib=3.0.3
 - pip:
-  - -i https://test.pypi.org/simple/ qutip==4.4.post3
+  - https://test.pypi.org/simple/ qutip==4.4.post3
 
