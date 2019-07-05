@@ -6,9 +6,9 @@ Launch the interactive environment by clicking on the badge below.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathanshammah/interactive-notebooks/master)
 
 
-## Lectures 
+## Lectures and Lab
 
-The `slides` folder contains lectures given at ICTP Trieste in July 2019 covering:
+The [`slides`](https://github.com/nathanshammah/interactive-notebooks/tree/master/slides) folder contains lectures given at ICTP Trieste in July 2019 covering:
 
 - The dynamics of dissipative quantum systems
 
